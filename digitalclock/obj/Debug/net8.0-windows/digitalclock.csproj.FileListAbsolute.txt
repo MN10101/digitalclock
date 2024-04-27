@@ -1,0 +1,17 @@
+C:\Users\mn\source\repos\digitalclock\digitalclock\bin\Debug\net8.0-windows\digitalclock.exe
+C:\Users\mn\source\repos\digitalclock\digitalclock\bin\Debug\net8.0-windows\digitalclock.deps.json
+C:\Users\mn\source\repos\digitalclock\digitalclock\bin\Debug\net8.0-windows\digitalclock.runtimeconfig.json
+C:\Users\mn\source\repos\digitalclock\digitalclock\bin\Debug\net8.0-windows\digitalclock.dll
+C:\Users\mn\source\repos\digitalclock\digitalclock\bin\Debug\net8.0-windows\digitalclock.pdb
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.Form1.resources
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.csproj.GenerateResource.cache
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.AssemblyInfoInputs.cache
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.AssemblyInfo.cs
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.csproj.CoreCompileInputs.cache
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.sourcelink.json
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.dll
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\refint\digitalclock.dll
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.pdb
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\digitalclock.genruntimeconfig.cache
+C:\Users\mn\source\repos\digitalclock\digitalclock\obj\Debug\net8.0-windows\ref\digitalclock.dll
